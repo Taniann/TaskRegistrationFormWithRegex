@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TaskRegistrationFormWithRegex.iml" filepath="$PROJECT_DIR$/TaskRegistrationFormWithRegex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TaskRegistrationFormWithRegex.iml" filepath="$PROJECT_DIR$/.idea/TaskRegistrationFormWithRegex.iml" />
     </modules>
   </component>
 </project>

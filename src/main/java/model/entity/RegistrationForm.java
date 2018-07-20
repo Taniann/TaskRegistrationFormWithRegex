@@ -1,4 +1,4 @@
-package ua.javatraining.model.entity;
+package model.entity;
 
 /**
  * Created by Таня on 19.07.2018.
