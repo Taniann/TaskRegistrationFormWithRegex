@@ -4,6 +4,7 @@ import view.View;
 
 /**
  * Created by Таня on 19.07.2018.
+ * @author Tania Nebesna
  */
 public class Main {
     public static void main(String[] args) {

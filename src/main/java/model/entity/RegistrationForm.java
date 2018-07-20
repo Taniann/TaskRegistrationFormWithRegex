@@ -2,7 +2,9 @@ package model.entity;
 
 /**
  * Created by Таня on 19.07.2018.
+ * Entity for representing user`s information
  */
+
 public class RegistrationForm {
     private String name;
     private String surname;
